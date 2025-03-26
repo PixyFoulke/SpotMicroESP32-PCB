@@ -8,7 +8,7 @@
   <p align="center">
     Custom PCBs designed for SpotMicroESP32-Leika  
     <br />
-    <a href="https://github.com/pixyfoulke/SpotMicroESP32-PCB"><strong>« Explore the PCBs »</strong></a>
+    <a href="https://github.com/PixyFoulke/SpotMicroESP32-PCB/tree/main/pcbs"><strong>« Explore the PCBs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/pixyfoulke/SpotMicroESP32-PCB/issues/new?labels=bug&template=bug-report.md">Help</a>
