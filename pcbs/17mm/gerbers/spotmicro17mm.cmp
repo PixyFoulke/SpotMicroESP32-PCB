@@ -1,0 +1,179 @@
+Cmp-Mod V01 Created by PcbNew   date = 2025-03-26T16:22:03-0400
+
+BeginCmp
+TimeStamp = 021de748-37c2-4a79-a654-c0d79fb95b88
+Path = /88ef5590-2ad9-44de-8bc3-b3dd8847e22b
+Reference = J9;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 11b85b7a-4a22-4d7e-8765-23991ef00af1
+Path = /da4c6444-268f-4769-bc40-8dbbab8faaf9
+Reference = J14;
+ValeurCmp = Conn_01x20_Socket;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 1218a9e3-a06d-4805-a40d-f2314e05c79a
+Path = /c682b259-07dc-490c-8d53-8e2fc0ba391b
+Reference = J6;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 218e4502-2f36-4123-a58a-324eab0f40a4
+Path = /596b70e7-cd3a-481b-bccd-24f286361619
+Reference = J18;
+ValeurCmp = Conn_01x02_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 2916ab8b-a34e-44df-8a50-c9ad37e7346b
+Path = /574ff4db-a83c-4055-b20b-79aaf97b0f0d
+Reference = J21;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 38d0f088-e8e1-4fee-9830-262df0be72a4
+Path = /4b67b909-e01d-4477-a0db-30d76260d587
+Reference = J4;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 41a5bee9-9e34-448c-8d04-ff0754476ab1
+Path = /8f3235d4-384d-4bf5-a6a2-045861830a6c
+Reference = J17;
+ValeurCmp = Conn_01x20_Pin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 46755031-b6c5-4b8c-a400-10b7045e8611
+Path = /d35439f3-9d03-4a81-bb23-17311b6b5107
+Reference = J13;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a16d3da-b757-4aae-900c-40edcd645852
+Path = /635a3a3c-1230-45be-82dc-96fd71717117
+Reference = J3;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 76b12495-28b6-4177-b8ab-ef2fd8a76d20
+Path = /78906918-a839-483f-af98-01209be5d717
+Reference = J15;
+ValeurCmp = Conn_01x20_Socket;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c2b2620-a294-46c7-8b0b-d16ab76f0ba0
+Path = /2b2514c1-6659-4397-9bc1-9a38ea66e74b
+Reference = J11;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 91714ace-d39c-4d56-a99f-0b1445f1f56c
+Path = /695d21ca-ab9e-41b9-bee3-2c9b85a9315f
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = a0f63e4c-d0c2-4c63-9713-bee32246acc7
+Path = /075f1088-e43e-4618-971a-73dd664f5baf
+Reference = J16;
+ValeurCmp = Conn_01x20_Pin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = b3519d3c-8fdc-452f-bc0c-63b2689e40de
+Path = /52dd7d21-7a19-4cc7-ac0d-e6928c736970
+Reference = J8;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = bce18b59-1589-4c81-bab0-3ff01cbde80c
+Path = /09145bef-e30c-4d0b-8748-691959a196c8
+Reference = J5;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = bd271306-6579-4c38-a91e-5f60c97ffd80
+Path = /02cd3793-d09b-4112-86de-ebd67d6798ec
+Reference = J10;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = c0ab93fd-2e1c-479c-a796-2a9e241af4c9
+Path = /2176c9e1-6948-434d-a34e-6d1fedbe547e
+Reference = J20;
+ValeurCmp = Conn_01x08_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = d0b24f95-0696-4dca-9253-f421d393bf18
+Path = /a461bf14-43ef-4f05-a951-3febf9ad7780
+Reference = J12;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = dd50f9c3-e764-420a-80fe-b3fccaf00bf7
+Path = /b4ce9ae8-3e22-4176-9129-248ae864a0e8
+Reference = J19;
+ValeurCmp = Conn_01x03_Pin;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = e61bc060-06cd-49db-b868-8c5fa03c4b89
+Path = /168f3268-9a06-4904-bc68-bfb7adb67a78
+Reference = J7;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = ec66f927-56c5-4c18-92a5-11413f93c2bf
+Path = /13251def-6b2e-4bb7-8503-7d3fce33ddfc
+Reference = U2;
+ValeurCmp = PCA9685;
+IdModule  = spotmicro:MODULE_815;
+EndCmp
+
+BeginCmp
+TimeStamp = ee6859a4-8e2d-4ee5-a130-e77679d949e2
+Path = /6241fa87-5550-4ff1-b852-9c9156a55bec
+Reference = J2;
+ValeurCmp = Conn_01x03_MountingPin;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+EndListe

@@ -1,0 +1,28 @@
+### Footprint positions - created on 2025-03-26T16:22:43-0400 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                                                        PosX       PosY       Rot  Side
+J1        Screw_Terminal_01x02    TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal   123.0000  -110.0000    0.0000  top
+J2        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            155.6700   -84.2500   90.0000  top
+J3        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            155.6700   -88.0000   90.0000  top
+J4        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            155.6700   -91.7500   90.0000  top
+J5        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            155.6700   -95.5000   90.0000  top
+J6        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            155.6700   -99.2500   90.0000  top
+J7        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            155.6700  -103.0000   90.0000  top
+J8        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            146.1700   -84.2500   90.0000  top
+J9        Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            146.1700   -88.0000   90.0000  top
+J10       Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            146.1700   -91.7500   90.0000  top
+J11       Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            146.1700   -95.5000   90.0000  top
+J12       Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            146.1700   -99.2500   90.0000  top
+J13       Conn_01x03_MountingPin  PinHeader_1x03_P2.54mm_Vertical                            146.1700  -103.0000   90.0000  top
+J14       Conn_01x20_Socket       PinSocket_1x20_P2.54mm_Vertical                             91.5000   -63.3600    0.0000  top
+J15       Conn_01x20_Socket       PinSocket_1x20_P2.54mm_Vertical                            108.5000   -63.4000    0.0000  top
+J16       Conn_01x20_Pin          PinHeader_1x20_P2.54mm_Vertical                             87.5000   -63.3600    0.0000  top
+J17       Conn_01x20_Pin          PinHeader_1x20_P2.54mm_Vertical                            112.5000   -63.4000    0.0000  top
+J18       Conn_01x02_Pin          PinSocket_1x02_P2.54mm_Vertical                            127.7500   -74.2500    0.0000  top
+J19       Conn_01x03_Pin          PinSocket_1x03_P2.54mm_Vertical                            119.7500   -74.2100    0.0000  top
+J20       Conn_01x08_Pin          PinSocket_1x08_P2.54mm_Vertical                            119.8000   -84.2600    0.0000  top
+J21       Screw_Terminal_01x02    TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal   127.9935   -65.5775  180.0000  top
+U2        PCA9685                 MODULE_815                                                 146.6630   -91.1800  -90.0000  top
+## End
