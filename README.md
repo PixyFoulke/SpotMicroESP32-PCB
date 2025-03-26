@@ -71,16 +71,18 @@
 </details>
 
 
-
-
 ---
 
 ## **✨ Features**
 <details>
   <summary>Click to expand Features</summary>
+
   ✔ **ESP32-S3 Compatible** – Supports advanced control via Wi-Fi & Bluetooth  
+
   ✔ **Integrated Motor Driver** – Reduces external wiring complexity  
+
   ✔ **Sensor & Peripheral Support** – Allows additional functionality  
+
   ✔ **Compact & Optimized Design** – Improves overall efficiency  
 </details>
 
@@ -89,7 +91,11 @@
 ## **🛠️ Hardware Overview**
 <details>
   <summary>Click to expand Hardware Overview</summary>
-  [![PCB Design](https://i.postimg.cc/wTPDSMB7/board.png)](https://postimg.cc/56BHzxLV)  
+
+  <a href="https://postimg.cc/56BHzxLV">
+    <img src="https://i.postimg.cc/wTPDSMB7/board.png" alt="PCB Design" width="300">
+  </a>
+
   _This PCB layout is specifically designed for SpotMicroESP32-Leika._
 </details>
 
@@ -99,9 +105,9 @@
 <details>
   <summary>Click to expand Getting Started</summary>
   
-  ### **Prerequisites**
-  ⚠️ **SOLDERING REQUIRED!**  
-  You will need to **manually solder** some components onto the PCB.
+  > IMPORTANT: ⚠️
+  > **SOLDERING IRON REQUIRED!**
+  > You will need to **manually solder** some components onto the PCB.
 
   ### **Setup Instructions**
   1. **📥 Download Gerber Files:**  
@@ -125,6 +131,7 @@
 ## **📚 Documentation**
 <details>
   <summary>Click to expand Documentation</summary>
+
   📖 _For detailed setup, refer to:_  
   - **[SpotMicroESP32-Leika Documentation](https://github.com/runeharlyk/SpotMicroESP32-Leika)**  
   - **[ESP32 Flashing Guide](https://docs.espressif.com/projects/esptool/en/latest/)**  
@@ -135,6 +142,7 @@
 ## **🎮 Usage**
 <details>
   <summary>Click to expand Usage</summary>
+
   🚀 Once fully assembled, you can:  
   - **Control** the robot via [Rune Harlyk’s Svelte App](https://github.com/runeharlyk/SpotMicroESP32-Leika).  
   - **Customize** firmware and adjust configurations.  
@@ -142,28 +150,23 @@
 
 ---
 
-## **📡 Live Status & Updates**
-<details>
-  <summary>Click to expand Live Status</summary>
-  [![Build Status](https://github.com/pixyfoulke/SpotMicroESP32-PCB/actions/workflows/main.yml/badge.svg)](https://github.com/pixyfoulke/SpotMicroESP32-PCB/actions)  
-  _🔄 Automatically updates when new commits are pushed._  
-</details>
-
----
-
 ## **📜 License**
 <details>
-  <summary>Click to expand License</summary>
-  This project is licensed under the **MIT License**. See [LICENSE](https://github.com/pixyfoulke/SpotMicroESP32-PCB/blob/master/LICENSE) for details.  
+  <summary>Click to view License</summary>
+
+  This project is licensed under the **MIT License**. See [LICENSE](https://github.com/pixyfoulke/SpotMicroESP32-PCB/blob/master/license) for details.  
 </details>
 
 ---
 
 ## **🏅 Acknowledgments**
 <details>
-  <summary>Click to expand Acknowledgments</summary>
-  💡 **Special thanks to:**  
-  - **Rune Harlyk** – Creator of **SpotMicroESP32-Leika**  
+  <summary>Expand Acknowledgments</summary>
+
+  **Special thanks to:**
+
+  - **Rune Harlyk** – Creator of **SpotMicroESP32-Leika** 
+
   - **SpotMicroAI Community** – [Join the Discord](https://discord.gg/WwefSZczQA)  
 </details>
 
@@ -171,10 +174,14 @@
 
 ## **🤝 Need Help?**
 <details>
-  <summary>Click to expand Need Help?</summary>
-  👋 **Contact Us!**  
+  <summary>Expand</summary>
+
+  👋 Contact Us!
+
   - **PixyFoulke** – PCB design & assembly inquiries; Discord Username: "_pixy."
+
   - **Rune Harlyk** – [GitHub Discussions](https://github.com/runeharlyk/SpotMicroESP32-Leika/discussions)  
+
   - **SpotMicroAI Community** – [Join Discord](https://discord.gg/WwefSZczQA)  
 </details>
 
