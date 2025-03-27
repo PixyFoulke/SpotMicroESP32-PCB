@@ -28,10 +28,10 @@
   
 ## **- - - PCB VARIANTS - - -**
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/pcbvariants.png" alt="Variants" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/pcbvariants.png" alt="Variants" width="300" height="150">
 </div>
 <details>
-  <summary>Expand PCB Variants</summary>
+  <summary>Expand</summary>
   
   ### **Header Pin Spacing (Open to see measurement)**
   <details>
@@ -77,12 +77,12 @@
 
 ---
 
-## **- - -**
+## **- - - HARDWARE - - -**
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/hardware.png" alt="Variants" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/hardware.png" alt="Variants" width="300" height="150">
 </div>
 <details>
-  <summary>Click to expand Hardware Overview</summary>
+  <summary>Expand</summary>
 
   <a href="https://github.com/PixyFoulke/SpotMicroESP32-PCB/tree/main/images/board.png">
     <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/board.png" alt="PCB Design" width="300">
@@ -95,10 +95,10 @@
 
 ## **- - - GETTING STARTED - - -**
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/gettingstarted.png" alt="Variants" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/gettingstarted.png" alt="Variants" width="300" height="150">
 </div>
 <details>
-  <summary>Click to expand Getting Started</summary>
+  <summary>Expand</summary>
   
   > IMPORTANT: ⚠️  
   > **SOLDERING IRON REQUIRED!**  
@@ -128,10 +128,10 @@
 
 ## **- - - MIT LICENSE - - -**
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/mitlicense.png" alt="Variants" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/mitlicense.png" alt="Variants" width="300" height="150">
 </div>
 <details>
-  <summary>Click to view License</summary>
+  <summary>Expand</summary>
 
   This project is licensed under the **MIT License**. See [LICENSE](https://github.com/pixyfoulke/SpotMicroESP32-PCB/blob/master/license) for details.  
 </details>
@@ -140,10 +140,10 @@
 
 ## **- - - ACKNOWLEDGEMENTS - - -**
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/acknowledgements.png" alt="Variants" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/acknowledgements.png" alt="Variants" width="300" height="150">
 </div>
 <details>
-  <summary>Expand Acknowledgments</summary>
+  <summary>Expand</summary>
 
   **Special thanks to:**
 
@@ -156,7 +156,7 @@
 
 ## **- - - HELP SERVICES - - -**
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/helpservices.png" alt="Variants" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/PixyFoulke/SpotMicroESP32-PCB/main/images/helpservices.png" alt="Variants" width="300" height="150">
 </div>
 <details>
   <summary>Expand</summary>
