@@ -24,6 +24,9 @@
 > IMPORTANT: ⚠️  
 > The maximum number of pins that your ESP32 can have and still use the breakout board is **40** total. If your board has more than 40, you **have** to use jumper cables to connect to the pins found on the PCB.
 
+> IMPORTANT: ⚠️
+> It is required for your board to contain *5v,3v3,SDA※,SCL※,GND*
+> Futureproofed
 
   
 ## **- - - PCB VARIANTS - - -**
