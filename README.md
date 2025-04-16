@@ -18,6 +18,9 @@
 </div>
 
 ---
+> IMPORTANT: 🛑
+> AFTER TESTING, THESE BOARDS DO NOT WORK. PLEASE WAIT FOR AN UPDATE BEFORE PURCHASING. THANK YOU.
+
 > IMPORTANT: ⚠️  
 > Each ESP32 Microcontroller variant has different pin row spacing. Please select the PCB that *__will__* fit your board without stress on the pins.
 
